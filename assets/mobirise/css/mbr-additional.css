@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+#header4-0 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts3-1 P {
+  text-align: left;
+  color: #9c9c9c;
+}
+#contacts3-1 UL {
+  text-align: left;
+}
+#menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #faaf40;
+}
+#menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+#header2-c H1 {
+  text-align: center;
+  font-size: 60px;
+}
+#header2-c P {
+  text-align: center;
+  color: #7ac673;
+}
+#slider-b H1 {
+  color: #faaf40;
+}
+#slider-b P {
+  color: #41a85f;
+}
+#msg-box4-9 .mbr-header__text {
+  color: #fac51c;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 48px;
+}
+#msg-box4-9 .mbr-header__subtext {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box4-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-9 .mbr-article P {
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box4-8 .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+  font-size: 48px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box4-8 .mbr-header__subtext {
+  color: #cccccc;
+  text-align: left;
+}
+#msg-box4-8 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-8 .mbr-article P {
+  text-align: left;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
+}
+#msg-box4-8 .btn {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #faaf40;
+}
+#menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__text {
+  color: #ffffff;
+  font-size: 48px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box4-a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-article P {
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#contacts3-2 P {
+  text-align: left;
+  color: #9c9c9c;
+}
+#contacts3-2 UL {
+  text-align: left;
+}

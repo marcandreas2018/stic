@@ -1,0 +1,684 @@
+{
+  "settings": {
+    "name": "Plateforme STIC",
+    "currentPage": "home.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#ed7c38",
+        "#222222",
+        "#38ed9c",
+        "#f5650e",
+        "#15b644",
+        "#9c9c9c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.2",
+    "siteFonts": [],
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /\nAllow: \n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": {
+      "customDialogSelector": true,
+      "colorText": "#ffffff",
+      "colorBg": "#f5650e",
+      "colorButton": "",
+      "colorLink": "#15b644",
+      "underlineLink": true,
+      "opacity": "67",
+      "opacityOverlay": "66",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "favicon": false,
+    "uniqCompNum": 24,
+    "versionPublish": "4.12.2",
+    "screenshot": "screenshot.png",
+    "gdpr": {
+      "colorText": "#f5650e",
+      "colorLink": "#15b644",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "google-analytics": "<!-- Google Analytics -->\n<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-XXXXX-Y', 'auto');\nga('send', 'pageview');\n</script>\n<!-- End Google Analytics -->"
+  },
+  "pages": {
+    "home.html": {
+      "settings": {
+        "main": true,
+        "title": "Les Spécialistes en TIC - La CAN 2023 En Côte d'Ivore ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bangkit-ristant-ljiivn78mnw-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BIENVENUE SUR LA PLATEFORME DES STIC",
+          "text": "Votre séjour en Côte dIvoire commence avec nous et maintenant.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"cotedivoire.html#header2-c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMMENCER ICI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MON ESPACE FOOT</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONSULTER UN EXPERT</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lisa-h-gowurby7gdm-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.7"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbrib-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTER STIC</a>",
+          "text1": "<strong>ADRESSE</strong><br>18 BP 1501 ABIDJAN 18 km4, Zone 3 Treichville<br>ABIDJAN, CIV&nbsp;<br><br>\n<strong>CONTACTS</strong><br>\nEmail: marcandreas2018@icloud.com<br>\nPhone: +225 78 27 10 18<br>\nFax: +225 21 21 08 00",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LIENS EXTERNES</b></p><p class=\"mbr-contacts__text\"><b>Constructeur du site</b></p><ul class=\"mbr-contacts__list\"><li>Se connecter&nbsp;</li><li>Website builder</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "marcandreas2018@icloud.com",
+            "alerts": {
+              "success": "VOS DONNEZ ONT BIEN ÉTÉ ENRÉGISTRÉES SUR STIC WEBSITE"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#9c9c9c"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#faaf40"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#faaf40",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#header4-0\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">À PROPOS DES STIC</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CONNECTION</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/stic-17197-nr8ll6-01-recovered-110x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "STIC",
+              "link": "index.html#header4-0",
+              "title": "LOGO"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html#header4-0\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STIC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        }
+      ]
+    },
+    "cotedivoire.html": {
+      "settings": {
+        "meta_descr": "Trouvez une chambres d'hotels proches des stades à votre goût pour ne rater aucun évènement. Découvrez égamelement la Côte d'Ivoire, un pays qui est  sous le feu de des projecteurs.",
+        "title": "La Côte d'Ivoire",
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nathan-rogers-i9hyw30buuq-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BIENVENUE DANS GUIDE",
+          "text": "PROFITEZ DE LA CAN 2023 POUR DÉCOUVRIR LA CÔTE D'IVOIRE &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-c",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#7ac673"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/fauzan-saari-cjyqbskdsii-unsplash-2000x1125.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "BIENVENUE EN CÔTE D'IVOIRE",
+                "contentAlign": "right",
+                "text": "Consultez les meilleures sites touristitiques en plus de votre séjour pour le foot sur nos sites.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"cotedivoire.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sergey-zolkin-uey8ati6d0-unsplash-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Whaoo !",
+                "contentAlign": "right",
+                "text": "Un service de qualité est à votre disposition, vos préoccupations ne sont plus un soucis pour votre séjour. Nous sommes là pour vous prêter main forte dès votre arrivez en terre ivoirienne.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"cotedivoire.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR</a>",
+                "overlay": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/lisa-h-gowurby7gdm-unsplash-2000x1333.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "LA CÔTE D'IVOIRE VOUS DIT: \" AKWABA \"",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cotedivoire.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR<br></a> ",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/basilique-de-yamoussoukro-2000x1000.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "DES LIEUX FASCINANTS VOS VACCANCES ET VOS LOISIR",
+                "contentAlign": "center",
+                "text": "Vous vous trouvez dans l'un des plus beaux pays de l'Afrique de l'Ouest. Alors n'attendez pas ! <br>Ces lieux n'attendent que vous.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"cotedivoire.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-b",
+          "_styles": {
+            "H1": {
+              "color": "#faaf40"
+            },
+            "P": {
+              "color": "#41a85f"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wolfgang-hasselmann-yowc9ylnl5y-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/felix-m-dorn-nizp9lwl2rm-unsplash-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "LA CÔTE D'IVOIRE",
+          "text": "<p>Aujourd'hui, et ce depuis le milieu des années 80, La Côte d'Ivoire est un pays très apprécié par les touristes venant des quatre coins du mondes. Prenez connaissances de la Côte d'Ivoire par cette introduction.</p><p><br></p><p>&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c",
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "48px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "L'élephant, le symbole de la Nation&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>TOUT SAVOIR SUR LA CÔTE D'IVOIRE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a69d7a4a-b4d4-44a9-8390-d85dea59e702-600x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ed7c38",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/iZ4Kv2Y3VDo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=iZ4Kv2Y3VDo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sofitel-abidjan-hotel-ivoire-1024x768.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "L'HOTÉLERIE EN CÔTE D'IVOIRE",
+          "text": "<p>Vous trouverez ici tous les types d'hotels que vous cherchez selon votre convenance. Pour tout savoir, veillez cliquer sur la touche suivante.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "48px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#cccccc",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "L'image de gauche est celle du Sofitel Hotel Ivoire (hotel de luxe)&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"file:///private/var/folders/hh/c_xsk9017155gh_704h5dnlm0000gn/T/Mobirise2020614_152638/20200714_154522/index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIQUEZ ICI</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-8"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#faaf40"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#faaf40",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#header4-0\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">À PROPOS DES STIC</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CONNECTION</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/stic-17197-nr8ll6-01-recovered-110x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "STIC",
+              "link": "index.html#header4-0",
+              "title": "LOGO"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html#header4-0\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STIC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thomas-serer-r-xkiemql34-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/luka-lojk-rtvdcvvvhbu-unsplash-2000x1500.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "LES STADES EN AVANT PREMIÈRE &nbsp;",
+          "text": "<p>Découvrez tous les stades qui seront solicité pour la CAN 2023 En Côte d'Ivoire situés à Abidjan et à l'intérieur du pays. Imprégner vous de ses stades et profitez bien de votre séjours. &nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "48px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "20px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(237, 124, 56);\"></span>EN SAVOIR PLUS</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-a"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lisa-h-gowurby7gdm-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.7"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbrib-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACTER STIC</a>",
+          "text1": "<strong>ADRESSE</strong><br>18 BP 1501 ABIDJAN 18 km4, Zone 3 Treichville<br>ABIDJAN, CIV&nbsp;<br><br>\n<strong>CONTACTS</strong><br>\nEmail: marcandreas2018@icloud.com<br>\nPhone: +225 78 27 10 18<br>\nFax: +225 21 21 08 00",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LIENS EXTERNES</b></p><p class=\"mbr-contacts__text\"><b>Constructeur du site</b></p><ul class=\"mbr-contacts__list\"><li>Se connecter&nbsp;</li><li>Website builder</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "marcandreas2018@icloud.com",
+            "alerts": {
+              "success": "VOS DONNEZ ONT BIEN ÉTÉ ENRÉGISTRÉES SUR STIC WEBSITE"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#9c9c9c"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-2"
+        }
+      ]
+    }
+  }
+}
